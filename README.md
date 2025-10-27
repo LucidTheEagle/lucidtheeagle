@@ -62,6 +62,6 @@ Building something that demands precision? Let's talk.
 
 *"Vision without execution is hallucination. Execution without vision is just work."*
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&bg_color=1a1410&title_color=d4a574&icon_color=b8860b&text_color=c9b997)](https://github.com/lucidtheeagle)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucidtheeagle&show_icons=true&theme=dark&bg_color=1a1410&title_color=d4a574&icon_color=b8860b&text_color=c9b997)](https://github.com/lucidtheeagle)
 
 </div>
