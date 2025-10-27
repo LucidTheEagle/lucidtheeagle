@@ -52,7 +52,7 @@ The eagle flies alone in the storm—not because it's isolating, but because the
 
 Building something that demands precision? Let's talk.
 
-**Email:** lucidtheeagle@[yourdomain]  
+**Email:** lucidtheeagle@gmail.com  
 **Twitter/X:** [@lucidtheeagle](https://twitter.com/lucidtheeagle)  
 **LinkedIn:** [LucidTheEagle](https://linkedin.com/in/lucidtheeagle)
 
@@ -62,6 +62,6 @@ Building something that demands precision? Let's talk.
 
 *"Vision without execution is hallucination. Execution without vision is just work."*
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&bg_color=1a1410&title_color=d4a574&icon_color=b8860b&text_color=c9b997)](https://github.com/YOURUSERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&bg_color=1a1410&title_color=d4a574&icon_color=b8860b&text_color=c9b997)](https://github.com/lucidtheeagle)
 
 </div>
