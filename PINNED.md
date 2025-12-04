@@ -1,54 +1,66 @@
-# 🦅 The Eagle Manifesto: Prelude to Ascension
+# LucidTheEagle 🦅
 
-> “From the fog of distraction, clarity is born — and from clarity, creation ascends.”
+> "I provide clarity where there is fog."
+
+## Who I Am
+
+Vision Architect. Product Builder. Systems Thinker.
+
+I design and build products that help people ascend from confusion to 
+strategic clarity.
+
+## What I Build
+
+### 🦅 Ascent Ledger (Current Project)
+AI-powered career mentorship tool that provides:
+- External perspective (see your blind spots)
+- Decision frameworks (navigate choices strategically)
+- Strategic guidance (mentor-level wisdom, always available)
+
+**Tech Stack:** React, Node.js, PostgreSQL, OpenAI API, Tailwind CSS  
+**Status:** Validation complete (6 interviews), MVP launching April 2026  
+**Positioning:** What a $500/hour mentor gives you, but accessible ($10-50/month)
+
+### 🦅 E.A.G.L.E. Framework
+My operating system for building products from fog → validated → launched.
+
+**Phases:**
+- **Phase 0: The Nest** → Validation & Research
+- **Phase 1: Elevate** → Strategic Clarity
+- **Phase 2: Architect** → System Design
+- **Phase 3: Generate** → Build MVP
+- **Phase 4: Launch & Lead** → Go-to-Market
+- **Phase 5: Evolve** → Continuous Improvement
+
+## My Approach
+
+I operate as a **Tribrid:**
+- **Strategist:** Vision Architect (design systems that solve complex problems)
+- **Executor:** Full-Stack Developer (build what I design)
+- **Oracle:** AI Integrator (scale insight through automation)
+
+## Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, Express, PostgreSQL  
+**AI:** OpenAI API, Prompt Engineering  
+**Tools:** Git, Vercel, Railway, Notion  
+
+## Current Focus
+
+✅ Finishing PGD in Computer Science  
+✅ Building Ascent Ledger (MVP launch April 2026)  
+✅ Documenting E.A.G.L.E. Framework  
+✅ Build-in-public journey  
+
+## Connect
+
+📍 Abuja, Nigeria  
+🐦 [X/Twitter: @LucidTheEagle]  
+💼 [LinkedIn: https://www.linkedin.com/in/victor-okefie-9a333b26b/]  
+📧 [Email: lucidtheeagle@gmail.com]  
 
 ---
 
-## I. The Vision
-I am **LucidTheEagle**, Vision Architect.  
-I design systems that lift builders from **chaotic execution** into **strategic clarity**.  
-Each project I forge is a flightpath — from noise to signal, from disorder to structure, from the ground to the sky.
-
----
-
-## II. The Doctrine — E.A.G.L.E. Framework
-The **E.A.G.L.E. Framework** is a universal blueprint for visionary creation.  
-It transforms projects into architectures — and architects into sovereign builders.
-
-**E.A.G.L.E. =**  
-- **E**volutionary Design  
-- **A**scension Logic  
-- **G**overnance by Flow  
-- **L**ucid Execution  
-- **E**ternal Continuity  
-
-> Every element exists to ensure that a builder never flies blind.
-
----
-
-## III. Current Operations
-- 🧩 **Operation Loom** – Ending the fog of fragmented focus.  
-- ⚙️ **E.A.G.L.E. Framework** – Constructing the foundation for system clarity.  
-
----
-
-## IV. Arsenal
-**Frontline**: React · TypeScript · Node.js  
-**Artillery**: Next.js · Three.js · AI Integration · D3.js  
-**Tactics**: System Design · Architecture · Product Clarity  
-
----
-
-## V. The Call
-The ascent begins not with perfection, but with direction.  
-I am building toward the Light — and those who see the same sky are welcome to join the flight.
-
-**Connect**  
-[Twitter/X](@lucidtheeagle](https://twitter.com/lucidtheeagle) · [LinkedIn](LucidTheEagle](https://linkedin.com/in/lucidtheeagle) · [Reddit](LucidTheEagle
-u/Sad_Literature6243)  
-📧 lucidtheeagle@gmail.com
-
----
-
-> “Systems are not built — they are ascended.”  
-> — *LucidTheEagle*
+**From fog to light.** 🦅
