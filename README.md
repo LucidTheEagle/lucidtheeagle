@@ -59,7 +59,7 @@ I speak from altitude — calm, certain, above the fog.
 
 - 🐦 **X (Twitter):** [@LucidTheEagle](https://x.com/LucidTheEagle)
 - 💼 **LinkedIn:** [Victor Okefie](https://linkedin.com/in/victor-okefie-9a333b26b)
-- 📧 **Email:** [lucidtheeagle@gmail.com]
+- 📧 **Email:** lucidtheeagle@gmail.com
 
 ---
 
