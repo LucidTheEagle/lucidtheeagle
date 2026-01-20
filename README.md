@@ -12,7 +12,7 @@ AI-powered systems for businesses drowning in operational chaos.
 - **The Sentry** - Autonomous lead qualification  
 - **The Overwatch** - Predictive analytics dashboard
 
-🔗 [Landing Page](your-url-when-ready) | Status: Launching Jan 16, 2026
+🔗 [Landing Page](lucidsystems.vercel.app) | Status: Launched Jan 16, 2026
 
 ---
 
@@ -59,7 +59,7 @@ I speak from altitude — calm, certain, above the fog.
 
 - 🐦 **X (Twitter):** [@LucidTheEagle](https://x.com/LucidTheEagle)
 - 💼 **LinkedIn:** [Victor Okefie](https://linkedin.com/in/victor-okefie-9a333b26b)
-- 📧 **Email:** [your-email]
+- 📧 **Email:** [lucidtheeagle@gmail.com]
 
 ---
 
