@@ -1,77 +1,109 @@
-# Lucid the Eagle 🦅
+# Victor Okefie — Epopteia 🦅
 
-> I provide clarity where there is blur, fog, and smoke.
+**Supreme Vision. The end of confusion.**
 
-## What I Build
-
-### 🔷 Lucid Systems (B2B Operations Automation)
-AI-powered systems for businesses drowning in operational chaos.
-
-**Three interconnected engines:**
-- **The Prism** - Intelligent document processing
-- **The Sentry** - Autonomous lead qualification  
-- **The Overwatch** - Predictive analytics dashboard
-
-🔗 [Landing Page](lucidsystems.vercel.app) | Status: Launched Jan 16, 2026
+I build AI systems that strip fog from documents, operations, and decisions.
+Solo founder. Building from Nigeria. Three production systems shipped in 90 days.
 
 ---
 
-### 🔷 Ascent Ledger (AI Career Mentorship)
-An operating system for professionals navigating career fog.
+## What I've Built
 
-**Core systems:**
-- Vision Canvas (Direction Fog)
-- Strategic Log (Leverage Fog)
-- Fog Check AI Mentor (External Perspective)
-- Decision Framework (Decision Paralysis)
-- Narrative Builder (Positioning)
+### 🔷 PRISM — Enterprise Document Intelligence
+Upload any document. Ask any question. Get verified answers pinned to the 
+exact paragraph — with a confidence score and zero hallucinations.
 
-📍 Status: Phase 3 (Build) — Beta February 2026
+Built for legal and compliance teams who cannot afford a wrong answer.
 
----
+- Hybrid Vector + BM25 search
+- Multi-pass self-critique pipeline
+- Forensic citations with clickable paragraph mapping
+- Confidence scoring on every response
 
-## Philosophy
-
-I don't build features. I build systems that enforce order.
-
-**E.A.G.L.E. Framework:**
-- **Nest** - Validate the problem
-- **Elevate** - Define the vision
-- **Architect** - Design the system
-- **Generate** - Build the solution
-- **Launch** - Deploy to market
-- **Evolve** - Iterate based on feedback
-
-I speak from altitude — calm, certain, above the fog.
+**Live →** [https://prism-mu-one.vercel.app/]
 
 ---
 
-## Operating Principles
+### 🔷 NexOps — Zero-Latency Operations Command Center
+Built for logistics and field ops teams drowning in fragmented tools.
+Every anomaly surfaced before it becomes a crisis. Every decision audited.
 
-- Systems > Speed
-- Clarity > Hustle
-- Architecture > Improvisation
-- From fog to altitude
+- Local-first architecture — responds in under 50ms
+- Full audit trace ledger on every state change
+- Priority Action Queue — always know what to do next
+- Command Palette (Cmd+K) for keyboard-first navigation
+- Role-based Ghost UI — adapts to each user
+
+**Live →** [https://nexops-three.vercel.app/]
+
+---
+
+### 🔷 Ascent Ledger — AI Career Diagnostic OS
+Not a journaling app. Not a task manager. A mirror.
+
+Finds the patterns in your week you cannot see yourself and tells you 
+exactly where your trajectory is pointing.
+
+- Graph-based pattern detection via FalkorDB
+- Dual-mode: Ascent Mode + Recovery Mode
+- LLM inference via Groq API
+- 5 active beta users running weekly cycles
+
+**Live →** [ascent-ledger.vercel.app](https://ascent-ledger.vercel.app)
+
+---
+
+### 🔷 APEX — Multi-Agent Execution Engine *(In Development)*
+Not a copilot. A digital workforce.
+
+Give APEX a high-level objective. It orchestrates specialized AI agents 
+to execute the entire workflow — research, execution, audit — autonomously.
+Human-in-the-Loop checkpoints for sensitive actions.
+
+**Built on:** LangGraph · CrewAI · Next.js 15
+
+---
+
+## Tech Stack
+```
+Framework:     Next.js 16 (App Router, Turbopack)
+Database:      PostgreSQL via Supabase + Prisma ORM
+Auth:          Supabase Auth (SSR, RLS)
+AI:            OpenAI API · Groq API · LangGraph
+Vector Search: pgvector + HNSW index
+Graph:         FalkorDB
+Rate Limiting: Upstash Redis
+UI:            Tailwind CSS v4 · Framer Motion
+Monitoring:    Sentry · PostHog
+Deployment:    Vercel
+```
+
+---
+
+## The Philosophy
+
+> *"You are not confused. You are operating without clarity.
+> There is a difference. One is permanent. The other is solvable."*
+
+**Epopteia** (Ancient Greek: ἐποπτεία) — Supreme Vision.
+The moment confusion becomes clarity.
+
+Seven Laws every system I build must follow:
+- **Altitude** — Solve the root cause, not the symptom
+- **Transparency** — No black boxes. Ever.
+- **The Signature** — Quality so precise it needs no explanation
+- **Calm Certainty** — The UI must feel like a clear sky
+- **Human Uplift** — Technology serves. The human decides.
 
 ---
 
 ## Connect
 
-- 🐦 **X (Twitter):** [@LucidTheEagle](https://x.com/LucidTheEagle)
-- 💼 **LinkedIn:** [Victor Okefie](https://linkedin.com/in/victor-okefie-9a333b26b)
+- 🌐 **Epopteia:** [https://epopteia.vercel.app/]
+- 💼 **LinkedIn:** [Victor Okefie](https://linkedin.com/in/victorokefie)
+- 🐦 **X:** [@LucidTheEagle](https://x.com/LucidTheEagle)
 - 📧 **Email:** lucidtheeagle@gmail.com
 
 ---
 
-## Current Focus (January 2026)
-
-🔨 Building Ascent Ledger MVP (Vision Canvas + Strategic Log)  
-🚀 Launching Lucid Systems landing page (January 16)  
-📝 Flight Logs every Friday (building in public)  
-🦅 71K impressions Week 1 on X
-
----
-
-*"The fog is real. But so is the ascent."*
-
----
+*Built from Nigeria. No team. No funding. Just engineering.* 🦅
