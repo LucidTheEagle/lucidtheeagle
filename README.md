@@ -20,7 +20,7 @@ Built for legal and compliance teams who cannot afford a wrong answer.
 - Forensic citations with clickable paragraph mapping
 - Confidence scoring on every response
 
-**Live →** [https://prism-mu-one.vercel.app/]
+**Live →** [prism-mu-one.vercel.app](https://prism-mu-one.vercel.app/)
 
 ---
 
@@ -34,7 +34,7 @@ Every anomaly surfaced before it becomes a crisis. Every decision audited.
 - Command Palette (Cmd+K) for keyboard-first navigation
 - Role-based Ghost UI — adapts to each user
 
-**Live →** [https://nexops-three.vercel.app/]
+**Live →** [nexops-three.vercel.app](https://nexops-three.vercel.app/)
 
 ---
 
@@ -99,7 +99,7 @@ Seven Laws every system I build must follow:
 
 ## Connect
 
-- 🌐 **Epopteia:** [https://epopteia.vercel.app/]
+- 🌐 **Epopteia:** [epopteia.vercel.app](https://epopteia.vercel.app/)
 - 💼 **LinkedIn:** [Victor Okefie](https://linkedin.com/in/victorokefie)
 - 🐦 **X:** [@LucidTheEagle](https://x.com/LucidTheEagle)
 - 📧 **Email:** lucidtheeagle@gmail.com
